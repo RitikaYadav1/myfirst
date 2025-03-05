@@ -1,0 +1,88 @@
+.Top-container{
+    
+    width: 100%;
+    height:100vh;
+    margin: 0%;
+    padding: 0%;
+    background-color: rgb(228, 249, 245);
+
+}
+#name{
+    display:flex;
+    justify-content: center;
+    color: rgb(102, 191, 191);
+    font-size : 4rem;
+    font-family:  "Sacramento", cursive;
+}
+#work{
+    color: rgb(102, 191, 191);
+    display:flex;
+    justify-content: center;
+    margin-top: 20px;
+    font-size:"Montserrat", sans-serif;
+}
+.img1{
+    display:flex;
+    justify-content: center;
+    
+}
+.photo{
+    
+    height:200px;
+    width: 200px;
+    border-radius: 50%;
+}
+.first{
+    color: rgb(102, 191, 191);
+
+    font-size:3rem;
+    display:flex;
+    justify-content: center;
+    margin-top: 20px;
+    font-size:"Montserrat", sans-serif;
+    
+}
+#first{
+    color: rgb(102, 191, 191);
+
+    font-size:30px;
+}
+.second{
+    color: rgb(102, 191, 191);
+
+    margin-top: 20px;
+    display:flex;
+    justify-content: center;
+}
+
+
+.third
+{   
+    color: rgb(102, 191, 191);
+
+    margin-left:15%;
+    margin-top: 30px;
+    display:grid;
+    grid-template-columns: 1fr 2fr;
+    grid-template-rows: 1fr 1fr;
+}
+.contact{
+    color: rgb(102, 191, 191);
+
+    margin-top: 40px;
+    display: block;
+    unicode-bidi: isolate;
+    
+}
+#getin{
+    font-size: 2rem;
+}
+body{
+    text-align: center;
+    background-color: rgb(228, 249, 245);
+
+}
+.bottom{
+    background-color: rgb(102, 191, 191);
+
+}
